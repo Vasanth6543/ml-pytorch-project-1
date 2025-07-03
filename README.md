@@ -1,4 +1,4 @@
-# ML PyTorch Project
+# ML PyTorch Project in vs code
 
 This is a PyTorch project for MNIST dataset experiments.
 
